@@ -65,7 +65,7 @@ MIDDLEWARE = [
 ]
 
 
-ROOT_URLCONF = 'djangoapi.urls'
+ROOT_URLCONF = 'hngproject.urls'
 
 TEMPLATES = [
     {
