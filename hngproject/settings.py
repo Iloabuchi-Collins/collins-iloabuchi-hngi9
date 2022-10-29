@@ -33,8 +33,8 @@ if IS_HEROKU:
 else:
     ALLOWED_HOSTS = []
     
-if not IS_HEROKU:
-    DEBUG = True   
+# if not IS_HEROKU:
+DEBUG = True   
 
 
 
